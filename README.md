@@ -77,7 +77,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  <img width="1536" height="1024" alt="ChatGPT Image 12 mars 2026, 09_18_36" src="https://github.com/user-attachments/assets/36ca5e45-e8d9-45d0-943d-01dd81ce20b0" />
 
  ## Conclusion 
-##### Ce projet me permet de me familiariser avec les bases de React (props, proptypes) et de créer une interface utilisateur simple pour visualiser le résultat.
+<div style = "text-align : center">
+ Ce projet me permet de me familiariser avec les bases de React (props, proptypes) et de créer une interface utilisateur simple pour visualiser le résultat.
+</div>
 
 ## Auteur : EDDINARI MOHAMED
 
